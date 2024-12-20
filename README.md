@@ -7,8 +7,8 @@
 ![Diffusers](https://img.shields.io/badge/-Diffusers-0096FF?style=flat&logo=huggingface&logoColor=white)
 
 Team Members: 
-- **Raj Shah**: shahraj2100@gmail.com
 - **Harsh Mehta**: hmehta1597@gmail.com
+- **Raj Shah**: shahraj2100@gmail.com
 - **Bhavana Pinni**: pinnibhavana@gmail.com
 - **Tomiwa Majekodunmi**: gabrielmajekodunmi@gmail.com
 - **Kurshid Shaik**: madinakurshied@gmail.com
